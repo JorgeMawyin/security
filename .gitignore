@@ -52,6 +52,3 @@ ehthumbs.db
 
 # Node.js Express generated files
 dist/
-
-# JetBrains Rider
-*.sln.iml
