@@ -15,9 +15,9 @@
   },
   "production": {
     "username": "root",
-    "password": "2fa-BGb5-acDFFeaDEA-A5BcA6bH46GA",
+    "password": "F24f3bafgdFCG45Dec5cE3d4BeeAh2gc",
     "database": "railway",
-    "host": "monorail.proxy.rlwy.net",
+    "host": "roundhouse.proxy.rlwy.net",
     "dialect": "mysql"
   }
 }
