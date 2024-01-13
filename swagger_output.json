@@ -8,7 +8,7 @@
   "host": "security-production-1e17.up.railway.app",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/users": {
